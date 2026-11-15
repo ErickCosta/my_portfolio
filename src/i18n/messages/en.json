@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "title": "Erick Costa · Software, Data & AI",
+    "description": "PhD in Computer Science, technical leader and founder of Borborema Tech. I build software, data platforms and AI systems, from research to production.",
+    "ogAlt": "Erick Costa: Software, Data and AI"
+  },
+  "skip": "Skip to content",
+  "nav": {
+    "label": "Main",
+    "about": "About",
+    "expertise": "Expertise",
+    "experience": "Experience",
+    "work": "Work",
+    "research": "Research",
+    "services": "What I do",
+    "contact": "Contact",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu"
+  },
+  "lang": {
+    "label": "Language",
+    "en": "English",
+    "pt-BR": "Português (Brasil)"
+  },
+  "hero": {
+    "headlineA": "Building",
+    "headlineEm": "Software, Data & AI",
+    "headlineB": "Solutions for Real-World Impact.",
+    "tagline": "Software Engineer · Data & AI Specialist · PhD in Computer Science",
+    "pitch": "I take software, data platforms and AI from research and strategy to production, and I lead the teams that build them.",
+    "ctaWork": "Explore My Work",
+    "ctaContact": "Contact Me",
+    "linkedin": "LinkedIn",
+    "now": "Now",
+    "pillarsLabel": "Areas of expertise",
+    "visualAlt": "Illustration: three cards, Software, Data and AI, connected by circuit lines to one glowing platform marked with the letter E."
+  },
+  "about": {
+    "title": "About",
+    "titleEm": "Me",
+    "lead": "Research taught me to ask better questions. Engineering taught me to ship the answers.",
+    "p1": "I started in 2009 as a research intern at UFPB. From there I worked in applied R&D with industry partners such as Dell EMC, Ingenico and Nice, taught computer science at three institutions, and completed a PhD in Computer Science at UFCG in 2022.",
+    "p2": "Then the work moved from code to teams. I coordinated engineering and led product and data at Gria, then ran the data team and later the Data & AI unit at Techlead IT Solutions. In January 2026 I founded Borborema Tech, where I work on Data & AI projects, platforms and governance.",
+    "factsLabel": "At a glance",
+    "factBased": "Based in",
+    "factEducation": "Education",
+    "factEducationValue": "PhD in Computer Science, UFCG, 2022",
+    "factNow": "Now",
+    "factNowValue": "Founder, Borborema Tech, since Jan 2026"
+  },
+  "expertise": {
+    "title": "Tech Stack &",
+    "titleEm": "Expertise",
+    "intro": "My work spans software engineering, data platforms and applied AI. Technologies are grouped by recency and emphasis, and each one links to the role that shows it.",
+    "pillarsLabel": "Areas of expertise",
+    "filterLabel": "Filter by area",
+    "filterAll": "All",
+    "viewLabel": "View",
+    "viewHighlights": "Highlights",
+    "viewAll": "All technologies",
+    "status": "Showing {count} technologies · {area}",
+    "statusOne": "Showing 1 technology · {area}",
+    "colTech": "Technology",
+    "colLevel": "Experience",
+    "helpButton": "How to read this",
+    "helpTitle": "What the labels mean",
+    "helpBody": "Labels reflect recency and emphasis in my career record, not a measured mastery score or a ranking of ability. The five-segment bars repeat that grouping visually: they are provisional and derived from my LinkedIn profile until I set individual levels. “Core Expertise” marks tools tied to my most recent roles; “Project Experience” marks tools I used in earlier professional and research roles; “Earlier Experience” marks older or more specialised work. Each technology links to the roles where it appears, and a few come from my profile summary without a specific role. The grouping is provisional and based on my résumé, not on a test.",
+    "hint": "Select a technology to see where I used it.",
+    "highlights": "Highlights",
+    "empty": "No technologies in this view.",
+    "tiers": {
+      "core": "Core Expertise",
+      "applied": "Project Experience",
+      "earlier": "Earlier Experience"
+    },
+    "tierNotes": {
+      "core": "Tied to my most recent roles",
+      "applied": "Used in earlier professional and research roles",
+      "earlier": "Older or more specialised work"
+    },
+    "categories": {
+      "language": "Language",
+      "framework": "Framework",
+      "library": "Library",
+      "data-platform": "Data platform",
+      "cloud": "Cloud",
+      "database": "Database",
+      "ml": "Machine learning",
+      "tool": "Tool",
+      "practice": "Practice"
+    },
+    "detailCategory": "Category",
+    "detailTier": "Group",
+    "detailEvidence": "Where I used it",
+    "noEvidence": "Listed in my profile summary, not tied to one role.",
+    "close": "Clear selection",
+    "seenIn": "Seen in",
+    "levelLabel": "Level {level} of 5",
+    "levelLabelProvisional": "Level {level} of 5 (provisional)"
+  },
+  "experience": {
+    "title": "Professional",
+    "titleEm": "Journey",
+    "subtitle": "Building experience across software, data, AI, leadership and research.",
+    "intro": "A path from software engineering and research to data leadership and AI strategy.",
+    "legendLabel": "Role types",
+    "legend": {
+      "software": {
+        "title": "Software",
+        "text": "Engineering, development and systems"
+      },
+      "research": {
+        "title": "Research",
+        "text": "R&D with industry and universities"
+      },
+      "data": {
+        "title": "Data",
+        "text": "Platforms, pipelines and governance"
+      },
+      "ai": {
+        "title": "AI",
+        "text": "Machine learning, NLP and LLM-based systems"
+      },
+      "leadership": {
+        "title": "Leadership",
+        "text": "Teams, product and data strategy"
+      },
+      "education": {
+        "title": "Education",
+        "text": "Teaching and academic work"
+      }
+    },
+    "journeyLabel": "Key milestones, oldest to newest",
+    "flowLabel": "Career flow",
+    "flowSoftware": "Software",
+    "flowData": "Data",
+    "flowAi": "AI",
+    "flowLeadership": "Leadership",
+    "allTitle": "Every role, by organization",
+    "allIntro": "{count} organisations, newest first. Open one for its roles, exact dates and technologies. Where I held roles at the same time, they are marked as parallel work.",
+    "expandAll": "Expand all",
+    "collapseAll": "Collapse all",
+    "roleOne": "1 role",
+    "roleMany": "{count} roles",
+    "present": "Present",
+    "parallelBadge": "Parallel work",
+    "parallel": "In parallel with",
+    "technologies": "Technologies",
+    "kinds": {
+      "industry": "Industry",
+      "teaching": "Teaching",
+      "research": "Research & development"
+    },
+    "toEducation": "Education & research"
+  },
+  "work": {
+    "title": "Selected",
+    "titleEm": "Capabilities",
+    "note": "The kinds of systems I build. This is not a project list: I don't publish client or employer work here.",
+    "listLabel": "Capabilities"
+  },
+  "research": {
+    "title": "Education &",
+    "titleEm": "Research",
+    "intro": "A PhD, a master's and a teaching degree in Computer Science, plus years of cooperation between university and industry.",
+    "academicTitle": "Academic Background",
+    "degreeIn": "{degree} in {field}",
+    "rdTitle": "R&D with industry",
+    "teachingTitle": "Teaching"
+  },
+  "services": {
+    "title": "What I",
+    "titleEm": "Do",
+    "intro": "Professional capabilities across the three areas, held together by technical leadership.",
+    "supporting": "Supporting strength, across all three areas",
+    "includes": "Includes"
+  },
+  "contact": {
+    "title": "Let's",
+    "titleEm": "talk.",
+    "lead": "Senior roles, project work, advisory or research collaboration: email is the fastest way to reach me.",
+    "email": "Email",
+    "linkedin": "LinkedIn profile",
+    "top": "Back to top"
+  },
+  "footer": {
+    "copyright": "© Erick Costa",
+    "icons": "Technology marks: Simple Icons (CC0)."
+  }
+}

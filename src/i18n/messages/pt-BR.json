@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "title": "Erick Costa · Software, Dados e IA",
+    "description": "Doutor em Ciência da Computação, líder técnico e fundador da Borborema Tech. Construo software, plataformas de dados e sistemas de IA, da pesquisa à produção.",
+    "ogAlt": "Erick Costa: Software, Dados e IA"
+  },
+  "skip": "Ir para o conteúdo",
+  "nav": {
+    "label": "Principal",
+    "about": "Sobre",
+    "expertise": "Atuação",
+    "experience": "Trajetória",
+    "work": "Trabalho",
+    "research": "Formação",
+    "services": "O que faço",
+    "contact": "Contato",
+    "menuOpen": "Abrir menu",
+    "menuClose": "Fechar menu"
+  },
+  "lang": {
+    "label": "Idioma",
+    "en": "English",
+    "pt-BR": "Português (Brasil)"
+  },
+  "hero": {
+    "headlineA": "Construindo soluções de",
+    "headlineEm": "Software, Dados e IA",
+    "headlineB": "com impacto no mundo real.",
+    "tagline": "Engenheiro de Software · Especialista em Dados e IA · Doutor em Ciência da Computação",
+    "pitch": "Levo software, plataformas de dados e IA da pesquisa e da estratégia até a produção, e lidero os times que os constroem.",
+    "ctaWork": "Conheça meu trabalho",
+    "ctaContact": "Fale comigo",
+    "linkedin": "LinkedIn",
+    "now": "Agora",
+    "pillarsLabel": "Áreas de atuação",
+    "visualAlt": "Ilustração: três cartões, Software, Dados e IA, ligados por linhas de circuito a uma plataforma brilhante marcada com a letra E."
+  },
+  "about": {
+    "title": "Sobre",
+    "titleEm": "mim",
+    "lead": "A pesquisa me ensinou a fazer perguntas melhores. A engenharia me ensinou a entregar as respostas.",
+    "p1": "Comecei em 2009 como estagiário de pesquisa na UFPB. Desde então atuei em P&D aplicado com parceiros da indústria, como Dell EMC, Ingenico e Nice, lecionei ciência da computação em três instituições e concluí o doutorado em Ciência da Computação na UFCG, em 2022.",
+    "p2": "Depois o trabalho foi saindo do código e chegando às equipes. Coordenei engenharia e liderei produto e dados na Gria, depois comandei o time de dados e, em seguida, a unidade de Dados e IA na Techlead IT Solutions. Em janeiro de 2026 fundei a Borborema Tech, onde atuo em projetos, plataformas e governança de Dados e IA.",
+    "factsLabel": "Em resumo",
+    "factBased": "Baseado em",
+    "factEducation": "Formação",
+    "factEducationValue": "Doutorado em Ciência da Computação, UFCG, 2022",
+    "factNow": "Agora",
+    "factNowValue": "Fundador da Borborema Tech, desde jan. de 2026"
+  },
+  "expertise": {
+    "title": "Stack técnica e",
+    "titleEm": "especialidades",
+    "intro": "Meu trabalho abrange engenharia de software, plataformas de dados e IA aplicada. As tecnologias estão agrupadas por recência e ênfase, e cada uma aponta para o cargo que a comprova.",
+    "pillarsLabel": "Áreas de atuação",
+    "filterLabel": "Filtrar por área",
+    "filterAll": "Todas",
+    "viewLabel": "Visão",
+    "viewHighlights": "Destaques",
+    "viewAll": "Todas as tecnologias",
+    "status": "Mostrando {count} tecnologias · {area}",
+    "statusOne": "Mostrando 1 tecnologia · {area}",
+    "colTech": "Tecnologia",
+    "colLevel": "Experiência",
+    "helpButton": "Como ler esta seção",
+    "helpTitle": "O que significam os rótulos",
+    "helpBody": "Os rótulos refletem recência e ênfase no meu histórico profissional, não uma nota de domínio medida nem um ranking de habilidade. As barras de cinco segmentos repetem esse agrupamento de forma visual: são provisórias e derivadas do meu perfil no LinkedIn, até que eu defina níveis individuais. “Especialidade central” marca as ferramentas ligadas aos meus cargos mais recentes; “Experiência em projetos”, as que usei em cargos profissionais e de pesquisa anteriores; “Experiência anterior”, trabalhos mais antigos ou mais especializados. Cada tecnologia aponta para os cargos em que aparece, e algumas vêm do resumo do meu perfil, sem um cargo específico. O agrupamento é provisório e se baseia no meu currículo, não em uma avaliação.",
+    "hint": "Selecione uma tecnologia para ver onde eu a usei.",
+    "highlights": "Destaques",
+    "empty": "Nenhuma tecnologia nesta visão.",
+    "tiers": {
+      "core": "Especialidade central",
+      "applied": "Experiência em projetos",
+      "earlier": "Experiência anterior"
+    },
+    "tierNotes": {
+      "core": "Ligadas aos meus cargos mais recentes",
+      "applied": "Usadas em cargos profissionais e de pesquisa anteriores",
+      "earlier": "Trabalhos mais antigos ou mais especializados"
+    },
+    "categories": {
+      "language": "Linguagem",
+      "framework": "Framework",
+      "library": "Biblioteca",
+      "data-platform": "Plataforma de dados",
+      "cloud": "Nuvem",
+      "database": "Banco de dados",
+      "ml": "Machine learning",
+      "tool": "Ferramenta",
+      "practice": "Prática"
+    },
+    "detailCategory": "Categoria",
+    "detailTier": "Grupo",
+    "detailEvidence": "Onde usei",
+    "noEvidence": "Consta no resumo do meu perfil, sem um cargo específico.",
+    "close": "Limpar seleção",
+    "seenIn": "Onde aparece",
+    "levelLabel": "Nível {level} de 5",
+    "levelLabelProvisional": "Nível {level} de 5 (provisório)"
+  },
+  "experience": {
+    "title": "Trajetória",
+    "titleEm": "profissional",
+    "subtitle": "Experiência construída em software, dados, IA, liderança e pesquisa.",
+    "intro": "Um caminho que vai da engenharia de software e da pesquisa à liderança em dados e à estratégia de IA.",
+    "legendLabel": "Tipos de atuação",
+    "legend": {
+      "software": {
+        "title": "Software",
+        "text": "Engenharia, desenvolvimento e sistemas"
+      },
+      "research": {
+        "title": "Pesquisa",
+        "text": "P&D com indústria e universidades"
+      },
+      "data": {
+        "title": "Dados",
+        "text": "Plataformas, pipelines e governança"
+      },
+      "ai": {
+        "title": "IA",
+        "text": "Machine learning, PLN e sistemas com LLMs"
+      },
+      "leadership": {
+        "title": "Liderança",
+        "text": "Times, produto e estratégia de dados"
+      },
+      "education": {
+        "title": "Educação",
+        "text": "Docência e vida acadêmica"
+      }
+    },
+    "journeyLabel": "Marcos principais, do mais antigo ao mais recente",
+    "flowLabel": "Fluxo da carreira",
+    "flowSoftware": "Software",
+    "flowData": "Dados",
+    "flowAi": "IA",
+    "flowLeadership": "Liderança",
+    "allTitle": "Todos os cargos, por organização",
+    "allIntro": "{count} organizações, da mais recente para a mais antiga. Abra uma para ver cargos, datas exatas e tecnologias. Quando exerci funções ao mesmo tempo, elas aparecem marcadas como trabalho em paralelo.",
+    "expandAll": "Expandir tudo",
+    "collapseAll": "Recolher tudo",
+    "roleOne": "1 cargo",
+    "roleMany": "{count} cargos",
+    "present": "Atual",
+    "parallelBadge": "Trabalho em paralelo",
+    "parallel": "Em paralelo com",
+    "technologies": "Tecnologias",
+    "kinds": {
+      "industry": "Mercado",
+      "teaching": "Docência",
+      "research": "Pesquisa e desenvolvimento"
+    },
+    "toEducation": "Formação e pesquisa"
+  },
+  "work": {
+    "title": "Capacidades",
+    "titleEm": "em destaque",
+    "note": "Os tipos de sistema que construo. Não é uma lista de projetos: não publico aqui trabalhos de clientes ou de empregadores.",
+    "listLabel": "Capacidades"
+  },
+  "research": {
+    "title": "Formação e",
+    "titleEm": "pesquisa",
+    "intro": "Doutorado, mestrado e licenciatura em Ciência da Computação, além de anos de cooperação entre universidade e indústria.",
+    "academicTitle": "Formação acadêmica",
+    "degreeIn": "{degree} em {field}",
+    "rdTitle": "P&D com a indústria",
+    "teachingTitle": "Docência"
+  },
+  "services": {
+    "title": "O que",
+    "titleEm": "faço",
+    "intro": "Capacidades profissionais nas três áreas, unidas pela liderança técnica.",
+    "supporting": "Ponto de apoio transversal às três áreas",
+    "includes": "Inclui"
+  },
+  "contact": {
+    "title": "Vamos",
+    "titleEm": "conversar.",
+    "lead": "Posições sêniores, projetos, consultoria ou colaboração em pesquisa: o e-mail é o jeito mais rápido de falar comigo.",
+    "email": "E-mail",
+    "linkedin": "Perfil no LinkedIn",
+    "top": "Voltar ao topo"
+  },
+  "footer": {
+    "copyright": "© Erick Costa",
+    "icons": "Logos de tecnologias: Simple Icons (CC0)."
+  }
+}

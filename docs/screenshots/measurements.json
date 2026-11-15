@@ -1,0 +1,42 @@
+[
+  {
+    "tag": "en-390",
+    "scrollWidth": 390,
+    "innerWidth": 390,
+    "height": 16036,
+    "lang": "en",
+    "h1": "Erick Costa",
+    "ok": true,
+    "consoleErrors": []
+  },
+  {
+    "tag": "en-768",
+    "scrollWidth": 768,
+    "innerWidth": 768,
+    "height": 13219,
+    "lang": "en",
+    "h1": "Erick Costa",
+    "ok": true,
+    "consoleErrors": []
+  },
+  {
+    "tag": "en-1440",
+    "scrollWidth": 1440,
+    "innerWidth": 1440,
+    "height": 10982,
+    "lang": "en",
+    "h1": "Erick Costa",
+    "ok": true,
+    "consoleErrors": []
+  },
+  {
+    "tag": "pt-1440",
+    "scrollWidth": 1440,
+    "innerWidth": 1440,
+    "height": 11358,
+    "lang": "pt-BR",
+    "h1": "Erick Costa",
+    "ok": true,
+    "consoleErrors": []
+  }
+]
